@@ -19,7 +19,8 @@ public class Utility {
 	public void m4() {
 
 		System.out.println("Utility m4() method");
-		
-
+	}
+	public void m3() {
+		System.out.println("Utility m3() method");
 	}
 }
