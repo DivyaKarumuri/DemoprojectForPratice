@@ -1,5 +1,10 @@
 package com.nacre.test;
 
-public class Test {
+import com.nacre.beans.Utility;
 
+public class Test {
+	public static void main(String[] args) {
+		Utility u = new Utility();
+		System.out.println(u.getSysDate());
+	}
 }
